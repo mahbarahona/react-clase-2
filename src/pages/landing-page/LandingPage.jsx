@@ -14,7 +14,7 @@ const LandingPage = () =>{
                                     <img  src={studyingImage}  className=' img-fluid' alt='as'/>
                                 </div>
                                 <div className="col mt-5 mb-4">
-                                <h1 className="fw-bold">All you can read!</h1>
+                                <h1 className="fw-bold text-center">All you can read!</h1>
 
                                     <div className="container mt-4">
                                             <ul className="list-group ">
