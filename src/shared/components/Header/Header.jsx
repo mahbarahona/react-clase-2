@@ -5,6 +5,11 @@ const Header = () =>{
     const menu = [
         {
             id:0,
+            titulo:'Repo',
+            ruta:'https://github.com/mahbarahona/react-clase-2'
+        },
+        {
+            id:0,
             titulo:'Books',
             ruta:'#'
         },
