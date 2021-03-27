@@ -22,6 +22,9 @@ const [data,  setData]   = React.useState('')
             <div className='container'>   
                 <div>
                     <h1 className="fw-bold">All you can read!</h1>
+                    <span>
+                        <small>{data}</small>
+                    </span>
                     <div className={styles.card}>
                             <div className="mb-3">
                                 <label  className="form-label mb-0">Name</label>
@@ -49,9 +52,7 @@ const [data,  setData]   = React.useState('')
                             <button type="button" onClick={handlerSubmit} className={styles.btn+' btn shadow' }>Start reading Now!</button>
                     </div>
                 </div>
-                <span>
-                    <small>{data}</small>
-                </span>
+
             </div>
         </>
     )
