@@ -21,7 +21,6 @@ const [data,  setData]   = React.useState('')
         <>
             <div className='container'>   
                 <div>
-                    <h1 className="fw-bold">All you can read!</h1>
                     <span>
                         <small>{data}</small>
                     </span>
