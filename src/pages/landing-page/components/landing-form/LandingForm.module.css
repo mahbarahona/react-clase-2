@@ -1,0 +1,27 @@
+.container{
+    margin: 0;
+    max-width: 22rem;
+    padding: 20px;
+}
+
+.card{
+    background-color: white;
+    border-radius: 4px;
+    padding: 20px;
+    font-weight: bold;
+}
+.input{
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+
+.btn{
+    background-color: #FF5678;
+    color: white;
+    font-size: 1em;
+    padding: 15px;
+
+
+
+}
