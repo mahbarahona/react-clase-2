@@ -1,9 +1,13 @@
+import Header from '../../shared/components/Header/Header';
+import Footer from '../../shared/components/Footer/Footer';
 const LandingPage = () =>{
 
     return (
-        <div>
-            Landing page
-        </div>
+
+        <>
+            <Header/>
+            <Footer/>
+        </>
     )
 }
 
