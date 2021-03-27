@@ -6,12 +6,12 @@ const Header = () =>{
         {
             id:0,
             titulo:'Books',
-            ruta:'/Books'
+            ruta:'/'
         },
         {
             id:1,
             titulo:'SigIn',
-            ruta:'/SigIn'
+            ruta:'/'
         },
     ]
  
